@@ -1,0 +1,13 @@
+{
+  "name": "Resume-as-a-site",
+  "version": "1.0.0",
+  "description": "My Resume as a website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm run --prefix client dev",
+    "build": "pnpm run --prefix client build"
+  },
+  "keywords": ["Resume", "Site", "Vue", "Compositon API"],
+  "author": "KamCy Ahaka",
+  "license": "ISC"
+}
